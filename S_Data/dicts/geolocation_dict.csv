@@ -1,0 +1,5 @@
+geolocation_zip_code_prefix;first 5 digits of zip code
+geolocation_lat;latitude
+geolocation_lng;longitude
+geolocation_city;city name
+geolocation_state;state

@@ -1,0 +1,12 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.env
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# macOS
+__MACOSX/
